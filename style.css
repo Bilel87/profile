@@ -1,0 +1,70 @@
+
+
+
+body {
+  background:url("world-map.jpg")
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 800px;
+}
+
+.shadowed {
+  box-shadow: 5px 5px 10px grey;
+}
+
+.card1 {
+  padding-top: 50px;
+  text-align: center;
+  background-color:#f4f4f4;
+  height: 300px;
+  box-shadow: 5px 5px 20px grey;
+  padding-bottom: 100px;
+  border-radius: 10px;
+}
+
+.card2 {
+  text-align: center;
+  background-color:#f4f4f4;
+  height: 300px;
+  box-shadow: 5px 5px 20px grey;
+  border-radius: 10px;
+}
+
+.card3 {
+  text-align: center;
+
+}
+
+.container {
+  width: 700px;
+  margin: 30px auto;
+}
+
+
+h1 {
+  color: black;
+  font-family:'Open Sans', sans-serif;
+}
+
+h2 {
+  color: black;
+  font-family:'Times', sans-serif;
+}
+
+h3 {
+  padding-top: 50px;
+  color: black;
+  font-family:'Times', sans-serif;
+}
+
+h5 {
+  color: black;
+  font-family:'Open Sans', sans-serif;
+}
+
+
+
+
